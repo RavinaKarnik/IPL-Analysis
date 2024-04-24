@@ -9,7 +9,10 @@
 ##"𝐒𝐩𝐨𝐫𝐭𝐬 𝐁𝐚𝐬𝐢𝐜𝐬"
 a budding sports blog company aiming to boost their website traffic with a special edition magazine on IPL 2024. 📰
 
-## HEre is the Data Modelling for my Project:-
+## Here is the Data Modelling for my Project:-
+
+![Screenshot 2024-04-24 145445](https://github.com/RavinaKarnik/IPL-Analysis/assets/130289037/0ad7255c-042d-45d6-ae52-5407712ad39c)
+
 
 ##My analysis comprised detailed pages on 𝐏𝐨𝐰𝐞𝐫 𝐡𝐢𝐭𝐭𝐞𝐫𝐬/𝐎𝐩𝐞𝐧𝐞𝐫𝐬, 𝐀𝐧𝐜𝐡𝐨𝐫𝐬, 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 𝐅𝐚𝐬𝐭 𝐁𝐨𝐰𝐥𝐞𝐫𝐬, 𝐀𝐥𝐥-𝐑𝐨𝐮𝐧𝐝𝐞𝐫𝐬, 𝐚𝐧𝐝 𝐅𝐢𝐧𝐢𝐬𝐡𝐞𝐫𝐬, offering comprehensive insights into batsmen's and bowlers' performances as well as team analyses.
 
