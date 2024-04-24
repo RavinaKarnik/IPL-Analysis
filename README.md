@@ -22,14 +22,14 @@ a budding sports blog company aiming to boost their website traffic with a speci
 
 
 
-# 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:- [https://lnkd.in/dXQeqztY](https://app.powerbi.com/view?r=eyJrIjoiNmUxYTc2Y2QtZGVjOS00ZmEyLWFiMzItNTdjNmI2MWI3ZmE0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionbb84bb80d566b0c7e795)
+## 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:- [https://lnkd.in/dXQeqztY](https://app.powerbi.com/view?r=eyJrIjoiNmUxYTc2Y2QtZGVjOS00ZmEyLWFiMzItNTdjNmI2MWI3ZmE0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionbb84bb80d566b0c7e795)
 for more insights.
 
-# You Tube Link:- https://youtu.be/CxwKhqo2-Ng?si=-uKqB9zxoWffYAug
+## You Tube Link:- https://youtu.be/CxwKhqo2-Ng?si=-uKqB9zxoWffYAug
 
-# Linkedln Post :-https://www.linkedin.com/posts/ravina-karnik_iplanalysis-resumeprojectchallenge-dataanalysis-activity-7188794508753387521-LpUW?utm_source=share&utm_medium=member_desktop
+## Linkedln Post :-https://www.linkedin.com/posts/ravina-karnik_iplanalysis-resumeprojectchallenge-dataanalysis-activity-7188794508753387521-LpUW?utm_source=share&utm_medium=member_desktop
 
-# 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐚𝐭 𝐖𝐨𝐫𝐤:
+## 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐚𝐭 𝐖𝐨𝐫𝐤:
 *📢 Excel & Power Query for robust data cleansing and transformation.
 *📢 Power BI for dynamic visualizations and predictive analysis.
 *📢 Microsoft PowerPoint for crafting engaging presentations.
