@@ -30,8 +30,8 @@ for more insights.
 ## Linkedln Post :-https://www.linkedin.com/posts/ravina-karnik_iplanalysis-resumeprojectchallenge-dataanalysis-activity-7188794508753387521-LpUW?utm_source=share&utm_medium=member_desktop
 
 ## 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐚𝐭 𝐖𝐨𝐫𝐤:
-*📢 Excel & Power Query for robust data cleansing and transformation.
-*📢 Power BI for dynamic visualizations and predictive analysis.
-*📢 Microsoft PowerPoint for crafting engaging presentations.
+* 📢 Excel & Power Query for robust data cleansing and transformation.
+* 📢 Power BI for dynamic visualizations and predictive analysis.
+* 📢 Microsoft PowerPoint for crafting engaging presentations.
 
 
