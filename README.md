@@ -3,6 +3,7 @@
 
 🏏 Just wrapped up the 𝐑𝐞𝐬𝐮𝐦𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝟏𝟎 with Codebasics, and it's been an exhilarating journey! 🚀
 
+
 In this challenge, I delved deep into 𝐈𝐏𝐋 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬 for the years 2021, 2022, and 2023, unraveling intriguing insights and making predictions for IPL 2024. 📊 These insights were shared with "𝐒𝐩𝐨𝐫𝐭𝐬 𝐁𝐚𝐬𝐢𝐜𝐬".
 
 "𝐒𝐩𝐨𝐫𝐭𝐬 𝐁𝐚𝐬𝐢𝐜𝐬"
